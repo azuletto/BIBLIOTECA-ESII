@@ -1,0 +1,142 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d",
+            "vmArgs": "--module-path \"C:/Program Files (x86)/Java/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        
+        },
+        {
+            "type": "java",
+            "name": "CadastrarLivro",
+            "request": "launch",
+            "mainClass": "view.CadastrarLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "CadastrarAluno",
+            "request": "launch",
+            "mainClass": "view.CadastrarAluno",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "DevolucaoLivro",
+            "request": "launch",
+            "mainClass": "view.DevolucaoLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "EmprestarLivro",
+            "request": "launch",
+            "mainClass": "view.EmprestarLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "view.Menu",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "Busca",
+            "request": "launch",
+            "mainClass": "view.Busca",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "Search",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Busca",
+            "request": "launch",
+            "mainClass": "Busca",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "CadastroAluno",
+            "request": "launch",
+            "mainClass": "CadastroAluno",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "CadastroLivro",
+            "request": "launch",
+            "mainClass": "CadastroLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "DevolverLivro",
+            "request": "launch",
+            "mainClass": "DevolverLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "EmprestimoLivro",
+            "request": "launch",
+            "mainClass": "EmprestimoLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d"
+        },
+        {
+            "type": "java",
+            "name": "JdbcTestPostgreSQL",
+            "request": "launch",
+            "mainClass": "bd.JdbcTestPostgreSQL",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d",
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "classes.Main",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d",
+            }
+    ]
+}
